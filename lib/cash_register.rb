@@ -28,6 +28,7 @@ class CashRegister
   
   def items
     items_array = []
+    
   end
   
   def void_last_transaction
