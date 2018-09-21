@@ -28,6 +28,7 @@ class CashRegister
   
   def items
     items_array = []
+    items_array << items
     
   end
   
