@@ -20,6 +20,7 @@ class CashRegister
       @@items << title
       counter += 1
     end
+    
   end
   
   def apply_discount
